@@ -5,7 +5,7 @@ A shop for curbside ordering of home maintenance essentials.
 
 To run:
 
-Step 1: The first time run `npm install`
+Step 1: First time run `npm install`
 
 Step 2: Press ctrl-f5 while your focus is in one of the files that starts with a number and is all lower case.
 
