@@ -7,7 +7,7 @@ To run:
 
 Step 1: First time run `npm install`
 
-Step 2: Press ctrl-f5 while your focus is in one of the files that starts with a number and is all lower case.
+Step 2: Press ctrl-f5 to run LockDownEssentials.js file
 
 Done!!!
 
